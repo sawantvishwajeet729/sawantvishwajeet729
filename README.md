@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet</h1>
-<h3 align="center">A Data Scientist from India</h3>
+<h3 align="center">A Data Scientist from India currently working at TVS Motor Company</h3>
+
+- 🌱 I’m currently learning **Langchain and large language models**
+
+- 📝 I regularly write articles on [medium](medium)
+
+- 💬 Ask me about **python, machine learning, data science**
+
+- 📫 How to reach me **sawantvishwajeet729@gmail.com**
+
+- 📄 Know about my experiences [https://vishwajeetsaichatbot.streamlit.app](https://vishwajeetsaichatbot.streamlit.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
