@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sawantvishwajeet729@gmail.com**
 
-- 📄 Know about my experiences [https://vishwajeetsaichatbot.streamlit.app](https://vishwajeetsaichatbot.streamlit.app)
+- 📄 Know about me [https://vishwajeetsaichatbot.streamlit.app](https://vishwajeetsaichatbot.streamlit.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
